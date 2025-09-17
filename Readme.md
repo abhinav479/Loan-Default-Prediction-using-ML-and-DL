@@ -69,19 +69,6 @@ This project implements a predictive machine learning pipeline to identify loan 
   
 ---
 
-## How to Run
-
-1. Clone the repo and set up Python environment.
-2. Install dependencies (e.g., scikit-learn, imbalanced-learn, xgboost, tensorflow, shap).
-3. Run `data_preprocessing.py` to clean and prepare the dataset.
-4. Run `train_models.py` for baseline training and evaluation.
-5. Run `hyperparameter_tuning.py` for fine-tuning logistic regression.
-6. Run `deep_learning.py` to train the neural network model.
-7. Run `explainability.py` to generate SHAP explanations.
-8. Run `save_model.py` to save final models and scalers for deployment.
-
----
-
 ## Future Improvements
 
 - Integration with real-time loan application systems for live scoring.
